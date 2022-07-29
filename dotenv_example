@@ -1,0 +1,5 @@
+NODE_ENV=development
+PORT=enter_port_here
+MONGO_URI=enter_mongodb_conection_string_here
+JWT_SECRET=enter_your_JWT_Secret_here
+JWT_EXPIRES_IN='30d'
