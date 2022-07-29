@@ -20,7 +20,7 @@
     - Enter the connection string in the `.env` file
   - Enter your JWT Secret
   - While in the support-desk directory, run `npm run start` to start the server
-  - Import the routes into Postman from the `` attached file exported from Postman
+  - Import the routes into Postman from the `Support Desk - node backend API.postman_collection.json` attached file exported from Postman
   - Use [Postman](https://www.postman.com/) to test the routes
   - Import the `Support Desk - node backend API.postman_collection.json` file into postman to test routes
 
