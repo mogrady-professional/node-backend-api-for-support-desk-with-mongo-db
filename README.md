@@ -1,13 +1,14 @@
-# Support Desk Backend in nodeJS
+# Support Desk - node backend API with MongoDB Atlas
 
 > API Developed as the first part of a larger backend API for a support desk system.
-> Single model `user` as a starter backend.
 
 # Table of Contents
 
-- [Support Desk Backend in nodeJS](#support-desk-backend-in-nodejs)
+- [Support Desk - node backend API with MongoDB Atlas](#support-desk---node-backend-api-with-mongodb-atlas)
 - [Table of Contents](#table-of-contents)
 - [Instructions](#instructions)
+- [Models](#models)
+- [Routes](#routes)
 
 # Instructions
 
@@ -21,4 +22,14 @@
   - While in the support-desk directory, run `npm run start` to start the server
   - Import the routes into Postman from the `` attached file exported from Postman
   - Use [Postman](https://www.postman.com/) to test the routes
-  - Import the `node backend authentication API.postman_collection.json` file into postman to test routes
+  - Import the `Support Desk - node backend API.postman_collection.json` file into postman to test routes
+
+# Models
+
+- userModel
+- ticketModel
+- noteModel
+
+# Routes
+
+View routes in `Support Desk - node backend API.postman_collection.json`
