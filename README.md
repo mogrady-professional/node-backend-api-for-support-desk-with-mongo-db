@@ -2,6 +2,10 @@
 
 > API Developed as the first part of a larger backend API for a support desk system.
 
+<p align="center">
+<img src="images/node-backend-api-for-support-desk-with-mongo-db.png">
+</p>
+
 # Table of Contents
 
 - [Support Desk - node backend API with MongoDB Atlas](#support-desk---node-backend-api-with-mongodb-atlas)
